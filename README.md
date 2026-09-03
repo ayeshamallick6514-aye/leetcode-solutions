@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -62,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
