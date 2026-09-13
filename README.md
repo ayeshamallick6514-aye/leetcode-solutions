@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0835-image-overlap](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
