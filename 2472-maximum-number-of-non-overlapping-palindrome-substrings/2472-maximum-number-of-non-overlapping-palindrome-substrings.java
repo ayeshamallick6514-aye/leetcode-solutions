@@ -1,44 +1,34 @@
 class Solution {
+
     public int maxPalindromes(String s, int k) {
-
         int n = s.length();
+        int ans = 0,
+            start = 0;
 
-        boolean[][] pal = new boolean[n][n];
+        for (int r = k - 1; r < n; ++r) {
+            int l = r - k + 1;
+            if (l >= start && check(s, l, r)) {
+                ++ans;
+                start = r + 1;
+                continue;
+            }
 
-       
-        for (int len = 1; len <= n; len++) {
-
-            for (int i = 0; i + len <= n; i++) {
-
-                int j = i + len - 1;
-
-                if (s.charAt(i) == s.charAt(j) &&
-                    (len <= 2 || pal[i + 1][j - 1])) {
-
-                    pal[i][j] = true;
-                }
+            l = r - k;
+            if (l >= start && check(s, l, r)) {
+                ++ans;
+                start = r + 1;
             }
         }
 
-        int[] dp = new int[n + 1];
+        return ans;
+    }
 
-        for (int i = 0; i < n; i++) {
-
-            
-            dp[i + 1] = Math.max(dp[i + 1], dp[i]);
-
-            for (int j = i + k - 1; j < n; j++) {
-
-                if (pal[i][j]) {
-
-                    dp[j + 1] = Math.max(
-                        dp[j + 1],
-                        dp[i] + 1
-                    );
-                }
+    private boolean check(String s, int l, int r) {
+        while (l < r) {
+            if (s.charAt(l++) != s.charAt(r--)) {
+                return false;
             }
         }
-
-        return dp[n];
+        return true;
     }
 }
