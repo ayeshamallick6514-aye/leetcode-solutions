@@ -1,25 +1,24 @@
 class Solution {
+
+    private static final long MOD = 1000000007L;
+
+    private long quickPow(long a, long e) {
+        long result = 1;
+        while (e > 0) {
+            if ((e & 1) != 0) result = (result * a) % MOD;
+            a = (a * a) % MOD;
+            e >>= 1;
+        }
+        return result;
+    }
+
     public int numberOfSets(int n, int k) {
-
-        int N = n + k - 1;
-        int R = 2 * k;
-
-        long[][] dp = new long[N + 1][R + 1];
-
-       
-        for (int i = 0; i <= N; i++) {
-            dp[i][0] = 1;
+        int m = 2 * k;
+        long numerator = 1, denominator = 1;
+        for (int i = 1; i <= m; i++) {
+            numerator = (numerator * (n + k - i)) % MOD;
+            denominator = (denominator * i) % MOD;
         }
-
-        for (int i = 1; i <= N; i++) {
-
-            for (int j = 1; j <= Math.min(i, R); j++) {
-
-                dp[i][j] = (dp[i - 1][j - 1] + dp[i - 1][j])
-                           % 1000000007;
-            }
-        }
-
-        return (int) dp[N][R];
+        return (int) ((numerator * quickPow(denominator, MOD - 2)) % MOD);
     }
 }
