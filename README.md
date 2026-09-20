@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-number-of-unique-good-subsequences](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
