@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0835-image-overlap](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayeshamallick6514-aye/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
